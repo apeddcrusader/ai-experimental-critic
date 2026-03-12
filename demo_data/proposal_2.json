@@ -1,0 +1,11 @@
+{
+  "hypothesis": "Drug X reduces tumor growth in mice via inhibition of VEGF signaling",
+  "methods": "Randomized controlled trial with blinded endpoint assessment. Primary endpoint is tumor volume at day 14. Automated caliper measurements.",
+  "controls": ["vehicle negative control", "positive control with known VEGF inhibitor"],
+  "sample_size": 30,
+  "variables": ["drug_dose", "tumor_cell_line", "mouse_strain"],
+  "blinding": "double-blind",
+  "randomization": true,
+  "statistical_test": "two-way ANOVA with Tukey post-hoc",
+  "replication": 3
+}

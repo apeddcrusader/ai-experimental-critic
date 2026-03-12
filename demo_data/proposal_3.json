@@ -1,0 +1,11 @@
+{
+  "hypothesis": "Compound Y enhances immune response against influenza",
+  "methods": "Treat mice with compound Y and measure antibody titers",
+  "controls": ["untreated control"],
+  "sample_size": 15,
+  "variables": ["compound_dose"],
+  "blinding": "single-blind",
+  "randomization": true,
+  "statistical_test": "t-test",
+  "replication": 2
+}

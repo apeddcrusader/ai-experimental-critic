@@ -1,0 +1,11 @@
+{
+  "hypothesis": "Drug X reduces tumor growth in mice",
+  "methods": "Inject drug X into mice and observe tumor size after 2 weeks",
+  "controls": [],
+  "sample_size": 5,
+  "variables": ["drug_dose"],
+  "blinding": null,
+  "randomization": false,
+  "statistical_test": null,
+  "replication": 1
+}
